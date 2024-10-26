@@ -1,0 +1,16 @@
+program ProjetoVendaWK;
+
+uses
+  Vcl.Forms,
+  uPedidoVenda in 'uPedidoVenda.pas' {frmPedidoVenda},
+  uDtmPedidoWK in 'uDtmPedidoWK.pas' {dtmPedidoWK: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPedidoVenda, frmPedidoVenda);
+  Application.CreateForm(TdtmPedidoWK, dtmPedidoWK);
+  Application.Run;
+end.

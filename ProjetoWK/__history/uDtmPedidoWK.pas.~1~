@@ -1,0 +1,25 @@
+unit uDtmPedidoWK;
+
+interface
+
+uses
+  System.SysUtils, System.Classes;
+
+type
+  TdtmPedidoWK = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  dtmPedidoWK: TdtmPedidoWK;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+end.

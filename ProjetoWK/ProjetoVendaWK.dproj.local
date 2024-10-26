@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/14 22:35:46.000.301,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/19 22:35:04.000.762,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 19:46:50.000.631,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 20:22:29.000.643,C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Bruno\Documents\GitHub\PedidoVendaWK\ProjetoWK\uPedidoVenda.pas</Transaction>
+    <Transaction>2024/10/25 20:22:29.000.644,C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Bruno\Documents\GitHub\PedidoVendaWK\ProjetoWK\uPedidoVenda.dfm</Transaction>
+    <Transaction>2024/10/25 20:23:50.000.696,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 20:24:26.000.347,C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Bruno\Documents\GitHub\PedidoVendaWK\ProjetoWK\uDtmPedidoWK.pas</Transaction>
+    <Transaction>2024/10/25 20:24:26.000.347,C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Bruno\Documents\GitHub\PedidoVendaWK\ProjetoWK\uDtmPedidoWK.dfm</Transaction>
+    <Transaction>2024/10/25 21:03:01.000.718,C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Bruno\Documents\GitHub\PedidoVendaWK\ProjetoWK\ProjetoVendaWK.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

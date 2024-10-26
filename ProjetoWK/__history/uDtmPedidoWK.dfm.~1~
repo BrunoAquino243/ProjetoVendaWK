@@ -1,0 +1,4 @@
+object dtmPedidoWK: TdtmPedidoWK
+  Height = 268
+  Width = 562
+end
